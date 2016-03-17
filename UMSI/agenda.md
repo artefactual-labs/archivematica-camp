@@ -1,24 +1,30 @@
 
 ##Draft agenda
 
-    Day 1:
+####Day 1
 
-    8:30 - 9:30 AM: 
-    registration and continental breakfast 
-    
-    9:30 - 10:15 AM: 
-    Archivematica Camp orientation
-    Instructor introductions
-    Participan introductions
-    Discussion of what attendees want to learn at Archivematica Camp
++------+-------------+
+| Time | Description |
++======+=============+
+| 8:30 - 9:30 AM | ####Registration |
+|                | - continental breakfast |
+|                | - wake up / network |
++------+-------------+
+| 9:30 - 10:15 AM |  ####Archivematica Camp orientation |
+|                 |  - Welcome and orientation |
+|                 |  - Instructor introductions |
+|                 |  - Participant introductions |
+|                 |  - Discussion of what we want to learn and do at Archivematica Camp |
++------+-------------+    
+| 10:15 - 11:00 AM | ####Why/What/Who/How? |
+|                  | - Why Digital Preservation? |
+|                  | - Why Archivematica? |
+|                  | - What is Archivematica? |
+|                  | - High level architectural overview |
+|                  | - Who uses Archivematica? |
+|                  | - User Roles - Curator/Preservationist/Content Experts and Technolgists/Developers/DevOps |
+| 11:00 - 11:15 AM | Break |
 
-    10:15 - 11:00:
-    Why Digital Preservation?
-    Why Archivematica?
-    What is Archivematica? High level architectural overview
-    Who uses Archivematica - curate/preservationist/content experts and technolgist/developer/sys admin/devops
-    
-    11:00 - 11:15 break
     
     11:15 - 12:15
     Open Source and Archivematica
@@ -30,7 +36,8 @@
     
     12:30 - 1:30 lunch
     
-    1:30 - 4:30: 2 streams
+    
+1:30 - 4:30: 2 streams
     [curators_stream.md][curators] and [technologists_stream.md][technologists]
     
     4:30 - 5:00 pm 1 stream wrap up and review, revise agenda for day 2
