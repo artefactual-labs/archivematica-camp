@@ -79,6 +79,10 @@
     
 **Format Policy Registry** 
 2:00 pm - 3:30 pm
+- FPR - The Vision
+- Customizing Preservation Actions
+- Developing new Preservation Tools
+- FPR 2.0 - Ontologies for Preservation Planning and Preservation Tools
     
 **Break**    
 3:30 pm - 4:00 pm
